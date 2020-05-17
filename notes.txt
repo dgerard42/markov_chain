@@ -1,0 +1,15 @@
+# **************************************************************************** #
+#                                                                              #
+#                                                   .--.                       #
+#    notes.txt                                   __/ o  ".                     #
+#                                               `  ),    "-.                   #
+#    By: doot <github.com/dgerard42>               |;;,      "-._              #
+#                                                  ';;;,,    ",_ "=-._         #
+#    Created: 2020/05/16 15:44:13 by doot            ':;;;;,,..-``"-._`"-.     #
+#    Updated: 2020/05/16 17:25:10 by doot              _/_/`           `'"`    #
+#                                                                              #
+# **************************************************************************** #
+
+- from main, open the reader object
+- do not pass anything back except individual words, keep everything else within
+    their object functions
